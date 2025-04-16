@@ -28,7 +28,8 @@ Application submissions and approvals
 Progress tracking (missions, feedback, reports)  
 
 📷 *Screenshot: Available Internships Page*  
-![Available Internships](./screenshots/available-internships.png)
+![image](https://github.com/user-attachments/assets/c265dfd2-ecff-48d1-abad-0005f49e197e)
+
 
 🗂 **Task Management**  
 Task creation by mentors  
