@@ -50,7 +50,8 @@ Stripe/PayPal-based payment system
 Subscription plans and feature unlocks  
 
 📷 *Screenshot: Payment Method Page*  
-![Payment](./screenshots/payment.png)
+![image](https://github.com/user-attachments/assets/738f395d-42d2-4935-8bbe-d67c782e8274)
+
 
 📞 **Contact & Support**  
 Contact form for user inquiries  
