@@ -8,7 +8,7 @@ Developed as a final module project in Artificial Intelligence by:
 
 - Naoual HOUSSNI  
 - Fatima Ezzahra BERRADA  
-- Ilyass EL BEKKALI  
+- Ilyass EL BAKKALI  
 - Ayoub FATHI  
 
 ---
@@ -41,7 +41,8 @@ Customizable user settings
 Change password, update profile, and notification preferences  
 
 📷 *Screenshot: Settings Page*  
-![image](https://github.com/user-attachments/assets/2b62e874-80a5-40fa-9d15-22a22f3612e7)
+![image](https://github.com/user-attachments/assets/57f09e0b-37a0-48ff-9920-9d4d79edeed2)
+
 
 
 💳 **Payment Integration**  
