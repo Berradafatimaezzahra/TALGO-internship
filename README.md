@@ -1,7 +1,7 @@
 💼 TalGo – Intelligent Internship Management Platform  
 TalGo is a smart web application designed to streamline the management of IT internships for students, mentors, and administrators. It integrates an AI-powered assistant, task and schedule management tools, and responsive dashboards tailored to each user type.
 
-![TalGo Banner]([./screenshots/banner.png](https://github.com/Berradafatimaezzahra/TALGO-internship/blob/main/Screenshot%202025-03-02%20142222.png?raw=true))
+![TalGo Banner]((https://github.com/Berradafatimaezzahra/TALGO-internship/blob/main/Screenshot%202025-03-02%20142222.png?raw=true))
 
 Developed as a final module project in Artificial Intelligence by:
 
