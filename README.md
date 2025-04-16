@@ -57,7 +57,8 @@ Contact form for user inquiries
 Feedback and support requests  
 
 📷 *Screenshot: Contact Us Page*  
-![Contact Us](./screenshots/contact-us.png)
+![image](https://github.com/user-attachments/assets/e7a81998-7a5c-4b57-a6c7-454fb01f4137)
+
 
 ---
 
