@@ -33,7 +33,8 @@ Application submissions and approvals
 Progress tracking (missions, feedback, reports)  
 
 📷 *Screenshot: Internship Dashboard (Student View)*  
-![Internship Dashboard](./screenshots/internship-dashboard-student.png)
+![image](https://github.com/user-attachments/assets/ac2336c4-6665-4182-8518-2835fbe95296)
+
 
 ⚙️ **Settings & User Preferences**  
 Customizable user settings  
