@@ -20,7 +20,8 @@ Secure signup/login for students, mentors, and admins
 Role-specific access and dashboard views  
 
 📷 *Screenshot: Login Page*  
-![Login Page](./screenshots/login.png)
+![image](https://github.com/user-attachments/assets/8fba6b3b-d6ce-4b09-8ff9-0de38a63a6af)
+
 
 🎯 **Internship Management**  
 Application submissions and approvals  
