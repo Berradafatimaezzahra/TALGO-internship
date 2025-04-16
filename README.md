@@ -1,4 +1,4 @@
-💼 TalGo – Intelligent Internship Management Platform  
+TalGo – Intelligent Internship Management Platform  
 TalGo is a smart web application designed to streamline the management of IT internships for students, mentors, and administrators. It integrates an AI-powered assistant, task and schedule management tools, and responsive dashboards tailored to each user type.
 
 ![image](https://github.com/user-attachments/assets/9d7c4777-4aaf-4021-bcb8-76f7080ee2a0)
@@ -23,27 +23,25 @@ Role-specific access and dashboard views
 ![image](https://github.com/user-attachments/assets/8fba6b3b-d6ce-4b09-8ff9-0de38a63a6af)
 
 
-🎯 **Internship Management**  
-Application submissions and approvals  
-Progress tracking (missions, feedback, reports)  
+🎯 **Internship Management**
+Application submissions and approvals 
 
 📷 *Screenshot: Available Internships Page*  
 ![image](https://github.com/user-attachments/assets/c265dfd2-ecff-48d1-abad-0005f49e197e)
 
+💼 **Website Dashboard**
+Progress tracking (missions, feedback, reports)  
 
-🗂 **Task Management**  
-Task creation by mentors  
-Real-time tracking by students  
-
-📷 *Screenshot: Task Management Page (Mentor View)*  
-![Task Management](./screenshots/task-management.png)
+📷 *Screenshot: Internship Dashboard (Student View)*  
+![Internship Dashboard](./screenshots/internship-dashboard-student.png)
 
 ⚙️ **Settings & User Preferences**  
 Customizable user settings  
 Change password, update profile, and notification preferences  
 
 📷 *Screenshot: Settings Page*  
-![Settings](./screenshots/settings.png)
+![image](https://github.com/user-attachments/assets/2b62e874-80a5-40fa-9d15-22a22f3612e7)
+
 
 💳 **Payment Integration**  
 Stripe/PayPal-based payment system  
@@ -58,13 +56,6 @@ Feedback and support requests
 
 📷 *Screenshot: Contact Us Page*  
 ![Contact Us](./screenshots/contact-us.png)
-
-📱 **Responsive UI**  
-Mobile-first design with Figma prototype  
-Smooth, intuitive UX  
-
-📷 *Screenshot: Mobile View (Intern Dashboard)*  
-![Mobile View](./screenshots/mobile-dashboard.png)
 
 ---
 
